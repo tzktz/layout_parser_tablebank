@@ -8,4 +8,5 @@ Steps to follow...
 3.Various models has been available in layoutparser 
     [model zoo](https://layout-parser.readthedocs.io/en/latest/notes/modelzoo.html)
     
-4.We using gradio to deploy the output
+4.We using gradio to deploy the output [Hugging face ](https://huggingface.co/spaces/Tzktz/layoutparser-tablebank-model)
+

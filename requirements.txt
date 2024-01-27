@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+pytesseract
+opencv-python
+pdf2image
+pypdf
+langdetect
+gradio

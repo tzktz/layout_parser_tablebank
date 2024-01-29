@@ -7,6 +7,5 @@ Steps to follow...
 
 3.Various models has been available in layoutparser 
     [model zoo](https://layout-parser.readthedocs.io/en/latest/notes/modelzoo.html)
-    
-4.We using gradio to deploy the output [Hugging face ](https://huggingface.co/spaces/Tzktz/layoutparser-tablebank-model)
+ ntegrated into [Huggingface Spaces 🤗](https://huggingface.co/spaces) using [Gradio](https://github.com/gradio-app/gradio). Try out the Web Demo: [![Hugging Face Spaces](https://huggingface.co/spaces/Tzktz/layoutparser-tablebank-model)
 
